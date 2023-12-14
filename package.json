@@ -1,0 +1,19 @@
+{
+  "name": "practicaramita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wama85/practicaramita.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wama85/practicaramita/issues"
+  },
+  "homepage": "https://github.com/Wama85/practicaramita#readme"
+}
